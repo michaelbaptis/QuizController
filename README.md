@@ -19,7 +19,7 @@ Pada bagian ini saya menampilkan Nama Pokemon, Keterangan Pokemon, dan Raritynya
 
  -  Menggunakan Git Clone
 1. Clone repository ini ke dalam komputer Anda dengan menjalankan perintah berikut di terminal: 
-		 >git clone https://github.com/michaelbaptis/QuizController.zip
+		 >git clone https://github.com/michaelbaptis/QuizController.git
 	2.  Setelah selesai meng-clone repository, buka folder proyek ini di Visual Studio Code (VSCode).
 	3. Buka terminal di VSCode dengan menekan tombol `Ctrl+Shift+'`.
 	4. Jalankan perintah `composer install` untuk menginstal dependency yang dibutuhkan.
